@@ -111,8 +111,8 @@ td {
 
 }
 #image {
-    margin: 4px;
-  width: 360px;
+ margin: 4px;
+  width: 300px;
   height: auto;
   object-fit: contain;
 }
@@ -129,7 +129,7 @@ td {
 
 .profile-card {
     /* border: 1px solid #000000; */
-  width: 15rem;
+  width: 12rem;
   /* display: grid; */
   /* border-radius: 10px; */
   padding: 20px;
